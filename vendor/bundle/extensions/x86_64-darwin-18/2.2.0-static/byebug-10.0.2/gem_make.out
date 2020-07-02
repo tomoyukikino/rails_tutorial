@@ -1,0 +1,19 @@
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/rails_tutorial/hello_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+/Users/tomoyuki./.rbenv/versions/2.2.3/bin/ruby -r ./siteconf20200702-3455-lx0kak.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/rails_tutorial/hello_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/rails_tutorial/hello_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR="
+compiling locker.c
+compiling byebug.c
+compiling context.c
+compiling breakpoint.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/rails_tutorial/hello_app/vendor/bundle/gems/byebug-10.0.2/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20200702-3455-1buedya/byebug
